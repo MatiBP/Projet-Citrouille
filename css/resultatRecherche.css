@@ -1,0 +1,37 @@
+body {
+    color:black;
+    background-color:rgba(216,237,238,255);
+}
+table {
+    width:50%;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    font-size: 20px;
+    border: 1px solid;
+}
+th,td{
+    border: 1px solid;
+}
+input[type=submit] {
+    background-color: rgb(56, 142, 255);
+    color: white;
+    padding: 3px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 1px solid rgb(56, 142, 255);
+}
+p{
+    color:black;
+    font-size: 25px;
+    text-align: center;
+}
+#back{
+    font-size: 20px;
+    text-align: left;
+}

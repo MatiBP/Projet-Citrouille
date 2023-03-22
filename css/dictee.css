@@ -1,0 +1,109 @@
+﻿body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    background-color: rgba(216, 237, 238, 255);
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+
+.nbrquestion {
+    font-size: 150%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+div {}
+
+    div.haut {
+        text-align: center;
+        background-color: white;
+        border-radius: 10px;
+        width: 75%;
+        margin: 0 auto;
+        font-family: pacifico, serif;
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    }
+
+    div.centre {
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 10px;
+        margin-bottom: 1%;
+        margin-top: 1%;
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    }
+
+    div.bas {
+        text-align: center;
+        width: 30%;
+        margin: 0 auto;
+        background-color: white;
+        border-radius: 10px;
+        display: flex;
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    }
+
+div.basgauche {
+    text-align: center;
+    width: 25%;
+}
+
+div.bascentre {
+    text-align: center;
+    width: 50%;
+}
+
+.reponse {
+    margin: 7% auto;
+}
+
+div.basdroite {
+    text-align: center;
+    width: 25%;
+}
+
+.valider {
+    margin: 15% auto;
+}
+
+.photo {
+    height: auto;
+    margin: 2%;
+    max-width: 90%;
+}
+
+.son {
+    margin: 2%;
+}
+
+.gomme {
+    height: 25px;
+    width: auto;
+    margin: 15% auto;
+}
+
+.valider {
+    height: 25px;
+    width: auto;
+    margin: 17% auto;
+}
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

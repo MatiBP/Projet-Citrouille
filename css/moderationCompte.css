@@ -1,0 +1,17 @@
+body {
+    color:black;
+    background-color:rgba(216,237,238,255);
+    
+}
+
+#tableau thead {
+    vertical-align: middle;
+}
+
+#tableau td {
+    vertical-align: middle;
+}
+
+.photo {
+    margin : 0 20%;
+}
